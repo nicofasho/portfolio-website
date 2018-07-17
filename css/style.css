@@ -44,7 +44,7 @@ a:visited {
     color: #6BD9B7;
 }
 
-.button {
+button, .button {
 	display: inline-block;
     border: none;
     font-family: inherit;
@@ -58,8 +58,8 @@ a:visited {
     transition: 0.2s opacity;
 }
 
-.button:hover,
-.button:focus {
+button, .button:hover,
+button, .button:focus {
     cursor: pointer;
     opacity: 0.8;
 }
