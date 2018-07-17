@@ -1,0 +1,59 @@
+/*
+
+Primary Color (purple): #360E81;
+Secondary Color (teal): #6BD9B7;
+Secondary Color (grey): #bfbfbf;
+Secondary Color (black): #000000;
+Secondary Color (white): #FFFFFF;
+
+*/
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+h3 {
+    font-size: 18px;
+}
+
+a {
+    color: #360E81;
+}
+
+a:hover,
+a:focus {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #6BD9B7;
+}
+
+button {
+    border: none;
+    font-family: inherit;
+
+    background-color: #5213C8;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 3px;
+    border-bottom: 2px solid #1C0743;
+    transition: 0.2s opacity;
+}
+
+button:hover,
+button:focus {
+    cursor: pointer;
+    opacity: 0.8;
+}
