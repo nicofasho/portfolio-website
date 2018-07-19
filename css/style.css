@@ -110,28 +110,36 @@ button,
 }
 
 @keyframes color-change {
-    from {fill: #F7C391}
-    to {fill: #FFFFFF}
+    from {
+        fill: #F7C391
+    }
+    to {
+        fill: #FFFFFF
+    }
 }
 
 @keyframes star-blink {
-    from {opacity: 1}
-    to {opacity: .2}
+    from {
+        opacity: 1
+    }
+    to {
+        opacity: .2
+    }
 }
 
-.moon{
+.moon {
     animation: 4s color-change infinite alternate linear;
 }
 
-.star1{
+.star1 {
     animation: 1s star-blink infinite alternate linear;
 }
 
-.star2{
+.star2 {
     animation: 2s star-blink infinite alternate linear;
 }
 
-.star3{
+.star3 {
     animation: 3s star-blink infinite alternate linear;
 }
 
@@ -150,7 +158,7 @@ button,
     .column-4:nth-child(2) {
         margin-right: 0;
     }
-    .text-container{
+    .text-container {
         font-size: 18px;
     }
 }
