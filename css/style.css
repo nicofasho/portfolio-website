@@ -1,12 +1,12 @@
-/*
 
-Primary Color (purple): #360E81;
-Secondary Color (teal): #6BD9B7;
-Secondary Color (grey): #bfbfbf;
-Secondary Color (black): #000000;
-Secondary Color (white): #FFFFFF;
 
-*/
+:root {
+  --purple: #360e81;
+  --teal: #6bd9b7;
+  --grey: #bfbfbf;
+  --black: #000000;
+  --white: #ffffff;
+}
 
 * {
     box-sizing: border-box;
@@ -32,7 +32,7 @@ h3 {
 }
 
 a {
-    color: #360E81;
+    color: var(--purple);
 }
 
 a:hover,
@@ -41,7 +41,7 @@ a:focus {
 }
 
 a:visited {
-    color: #6BD9B7;
+    color: var(--teal);
 }
 
 button, .button {
@@ -96,7 +96,7 @@ button, .button:focus {
 }
 
 .column-4 img {
-    width: 99%;
+    width: 100%;
 }
 
 .navigation {
