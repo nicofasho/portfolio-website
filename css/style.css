@@ -1,11 +1,9 @@
-
-
 :root {
-  --purple: #360e81;
-  --teal: #6bd9b7;
-  --grey: #bfbfbf;
-  --black: #000000;
-  --white: #ffffff;
+    --purple: #360e81;
+    --teal: #6bd9b7;
+    --grey: #bfbfbf;
+    --black: #000000;
+    --white: #ffffff;
 }
 
 * {
@@ -44,11 +42,11 @@ a:visited {
     color: var(--teal);
 }
 
-button, .button {
-	display: inline-block;
+button,
+.button {
+    display: inline-block;
     border: none;
     font-family: inherit;
-
     background-color: #5213C8;
     color: white;
     text-decoration: none;
@@ -58,12 +56,13 @@ button, .button {
     transition: 0.2s opacity;
 }
 
-button, .button:hover,
-button, .button:focus {
+button,
+.button:hover,
+button,
+.button:focus {
     cursor: pointer;
     opacity: 0.8;
 }
-
 
 /*Layout Styling*/
 
@@ -110,6 +109,32 @@ button, .button:focus {
     margin-left: 10px;
 }
 
+@keyframes color-change {
+    from {fill: #F7C391}
+    to {fill: #FFFFFF}
+}
+
+@keyframes star-blink {
+    from {opacity: 1}
+    to {opacity: .2}
+}
+
+.moon{
+    animation: 4s color-change infinite alternate linear;
+}
+
+.star1{
+    animation: 1s star-blink infinite alternate linear;
+}
+
+.star2{
+    animation: 2s star-blink infinite alternate linear;
+}
+
+.star3{
+    animation: 3s star-blink infinite alternate linear;
+}
+
 @media all and (max-width: 500px) {
     .logo {
         height: 50px;
@@ -124,5 +149,8 @@ button, .button:focus {
     }
     .column-4:nth-child(2) {
         margin-right: 0;
+    }
+    .text-container{
+        font-size: 18px;
     }
 }
