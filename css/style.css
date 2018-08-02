@@ -1,9 +1,10 @@
 :root {
     --purple: #360e81;
-    --teal: #6bd9b7;
+    --green: #1A644D;
     --grey: #bfbfbf;
     --black: #000000;
     --white: #ffffff;
+    --overlaygreen: #2CA881;
 }
 
 * {
@@ -54,7 +55,7 @@ a:focus {
 }
 
 a:visited {
-    color: var(--teal);
+    color: var(--green);
 }
 
 button,
@@ -175,7 +176,7 @@ button,
     top: 0;
     left: 0;
     padding: 4px;
-    background-color: rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.95);
     color: white;
     transition: all ease-in-out 400ms;
     text-decoration: none;
@@ -183,6 +184,10 @@ button,
 
 .project:hover .project-link {
     opacity: 1;
+}
+
+.project-details{
+    color: var(--overlaygreen);
 }
 
 a>img,
