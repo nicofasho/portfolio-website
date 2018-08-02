@@ -206,6 +206,10 @@ a>img,
     list-style: none;
 }
 
+iframe{
+    border: 0;
+}
+
 @keyframes color-change {
     from {
         fill: #F7C391
