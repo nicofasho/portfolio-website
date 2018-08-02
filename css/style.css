@@ -29,7 +29,7 @@ h3 {
     margin-top: 60px;
 }
 
-.project-preview > h2{
+.project-preview>h2 {
     margin-top: inherit;
 }
 
@@ -129,33 +129,32 @@ button,
     margin-left: 10px;
 }
 
-.header{
+.header {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-
-.header a{
+.header a {
     text-decoration: none;
 }
 
-.logo{
+.logo {
     font-size: 24px;
     color: var(--purple);
 }
 
-.logo:visited{
+.logo:visited {
     color: var(--purple);
 }
 
-.footer{
+.footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.footernav{
+.footernav {
     list-style-type: none;
 }
 
@@ -163,7 +162,7 @@ button,
     position: relative;
 }
 
-.hometext{
+.hometext {
     font-size: 22px;
 }
 
@@ -186,21 +185,21 @@ button,
     opacity: 1;
 }
 
-a > img,
-.text-container > img{
+a>img,
+.text-container>img {
     max-width: 100%;
 }
 
-.sidenav{
+.sidenav {
     position: fixed;
     left: 0;
     display: none;
 }
 
-.sidenav > ul, .sidenav > ul > li > ul{
+.sidenav>ul,
+.sidenav>ul>li>ul {
     list-style: none;
 }
-
 
 @keyframes color-change {
     from {
@@ -256,8 +255,8 @@ a > img,
     }
 }
 
-@media all and (min-width: 1300px){
-    .sidenav{
+@media all and (min-width: 1300px) {
+    .sidenav {
         display: block;
     }
 }
