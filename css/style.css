@@ -91,7 +91,7 @@ button,
 
 .text-container {
     max-width: 800px;
-    font-size: 22px;
+    font-size: 26px;
     margin: 0 auto;
 }
 
@@ -208,6 +208,10 @@ a>img,
 
 iframe{
     border: 0;
+}
+
+.border{
+    border: solid 2px;
 }
 
 @keyframes color-change {
