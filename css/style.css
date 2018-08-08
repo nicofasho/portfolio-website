@@ -214,6 +214,12 @@ iframe{
     border: solid 2px;
 }
 
+.left{
+    float: left;
+    width: 200px;
+    margin: 0 10px 10px 0;
+}
+
 @keyframes color-change {
     from {
         fill: #F7C391
@@ -265,6 +271,9 @@ iframe{
     }
     .text-container {
         font-size: 18px;
+    }
+    .left{
+        width: 125px;
     }
 }
 
