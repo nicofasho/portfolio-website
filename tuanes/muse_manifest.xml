@@ -1,0 +1,433 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="chriswatsonux.com/tuanes" resolutions="1x" timestamp="1538878262828">
+  <folder name="css">
+    <file name="site_global.css" crc="4252241145"/>
+    <file name="master_about-us-master.css" crc="4217369040" ref="links:contact:mission-statement:message-to-alumni:history-of-the-department"/>
+    <file name="master_residency-master.css" crc="377085470" ref="resident-applicant-information:rotation-goals-and-objectives:life-after-residency:program-director-s-message:meet-the-residents:didactic-program:rotation-directors:clinical-program"/>
+    <file name="master_directory-master.css" crc="3881945556" ref="interns:crnas:alumni:faculty-alumni:faculty:residents:staff"/>
+    <file name="master_education-master.css" crc="186604935" ref="mba-program:simulation-training---human-patient-simulator:medical-student-clerkship:training-facilities:perioperative-management-fellowships:rotation-in-china:research-fellowships:careers-in-anesthesiology:regional-pain-management-fellowship"/>
+    <file name="master_master.css" crc="448963093" ref="resident-applicant-information:abstracts-presented:coming-events:department-news:interns:links:crnas:contact:alumni:rotation-goals-and-objectives:life-after-residency:news:education:program-director-s-message:meet-the-residents:mba-program:research:faculty-alumni:didactic-program:simulation-training---human-patient-simulator:index:event-archive:contact-us:calendar:calendar---events:sponsored-clinical-trials:faculty:medical-student-clerkship:alumni-news:mission-statement:training-facilities:intranet:perioperative-management-fellowships:rotation-directors:current-research:clinical-program:rotation-in-china:directory:completed-research:research-fellowships:research-faculty:anesthesiology-newsletter:message-to-alumni:residents:careers-in-anesthesiology:regional-pain-management-fellowship:about-us:staff:history-of-the-department:residency"/>
+    <file name="master_research-master.css" crc="494573884" ref="abstracts-presented:sponsored-clinical-trials:current-research:completed-research:research-faculty"/>
+    <file name="master_inner-page-master-template.css" crc="531755670" ref="coming-events:department-news:event-archive:calendar---events:alumni-news:anesthesiology-newsletter"/>
+    <file name="resident-applicant-information.css" crc="4100223809" ref="resident-applicant-information"/>
+    <file name="abstracts-presented.css" crc="381963321" ref="abstracts-presented"/>
+    <file name="coming-events.css" crc="205369775" ref="coming-events"/>
+    <file name="department-news.css" crc="205369775" ref="department-news"/>
+    <file name="interns.css" crc="56370717" ref="interns"/>
+    <file name="links.css" crc="438609513" ref="links"/>
+    <file name="crnas.css" crc="368952757" ref="crnas"/>
+    <file name="contact.css" crc="520048185" ref="contact"/>
+    <file name="alumni.css" crc="56370717" ref="alumni"/>
+    <file name="rotation-goals-and-objectives.css" crc="120414018" ref="rotation-goals-and-objectives"/>
+    <file name="life-after-residency.css" crc="489060566" ref="life-after-residency"/>
+    <file name="news.css" crc="4218671268" ref="news"/>
+    <file name="education.css" crc="3995352062" ref="education"/>
+    <file name="program-director-s-message.css" crc="213898894" ref="program-director-s-message"/>
+    <file name="meet-the-residents.css" crc="4252624157" ref="meet-the-residents"/>
+    <file name="mba-program.css" crc="4027389845" ref="mba-program"/>
+    <file name="research.css" crc="4218671268" ref="research"/>
+    <file name="faculty-alumni.css" crc="56370717" ref="faculty-alumni"/>
+    <file name="didactic-program.css" crc="9503060" ref="didactic-program"/>
+    <file name="simulation-training---human-patient-simulator.css" crc="4173000762" ref="simulation-training---human-patient-simulator"/>
+    <file name="index.css" crc="4214775176" ref="index"/>
+    <file name="event-archive.css" crc="205369775" ref="event-archive"/>
+    <file name="contact-us.css" crc="4218671268" ref="contact-us"/>
+    <file name="calendar.css" crc="4218671268" ref="calendar"/>
+    <file name="calendar---events.css" crc="205369775" ref="calendar---events"/>
+    <file name="sponsored-clinical-trials.css" crc="104993844" ref="sponsored-clinical-trials"/>
+    <file name="faculty.css" crc="3918242010" ref="faculty"/>
+    <file name="medical-student-clerkship.css" crc="3966550796" ref="medical-student-clerkship"/>
+    <file name="alumni-news.css" crc="205369775" ref="alumni-news"/>
+    <file name="mission-statement.css" crc="111801592" ref="mission-statement"/>
+    <file name="training-facilities.css" crc="3928291247" ref="training-facilities"/>
+    <file name="intranet.css" crc="4218671268" ref="intranet"/>
+    <file name="perioperative-management-fellowships.css" crc="4212722564" ref="perioperative-management-fellowships"/>
+    <file name="rotation-directors.css" crc="4230415995" ref="rotation-directors"/>
+    <file name="current-research.css" crc="188109820" ref="current-research"/>
+    <file name="clinical-program.css" crc="3848893285" ref="clinical-program"/>
+    <file name="rotation-in-china.css" crc="68705563" ref="rotation-in-china"/>
+    <file name="directory.css" crc="4218671268" ref="directory"/>
+    <file name="completed-research.css" crc="4231569962" ref="completed-research"/>
+    <file name="research-fellowships.css" crc="198141725" ref="research-fellowships"/>
+    <file name="research-faculty.css" crc="4206902540" ref="research-faculty"/>
+    <file name="anesthesiology-newsletter.css" crc="205369775" ref="anesthesiology-newsletter"/>
+    <file name="message-to-alumni.css" crc="198145792" ref="message-to-alumni"/>
+    <file name="residents.css" crc="8131798" ref="residents"/>
+    <file name="careers-in-anesthesiology.css" crc="210914479" ref="careers-in-anesthesiology"/>
+    <file name="regional-pain-management-fellowship.css" crc="57852298" ref="regional-pain-management-fellowship"/>
+    <file name="about-us.css" crc="4218671268" ref="about-us"/>
+    <file name="staff.css" crc="176510489" ref="staff"/>
+    <file name="history-of-the-department.css" crc="4083171337" ref="history-of-the-department"/>
+    <file name="residency.css" crc="339219380" ref="residency"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:residency:education:research:directory:about-us:news:calendar:contact-us:intranet:program-director-s-message:resident-applicant-information:clinical-program:didactic-program:rotation-goals-and-objectives:rotation-directors:meet-the-residents:mba-program:perioperative-management-fellowships:regional-pain-management-fellowship:research-fellowships:rotation-in-china:training-facilities:simulation-training---human-patient-simulator:careers-in-anesthesiology:medical-student-clerkship:current-research:sponsored-clinical-trials:completed-research:abstracts-presented:research-faculty:faculty:residents:staff:crnas:interns:alumni:faculty-alumni:mission-statement:history-of-the-department:message-to-alumni:contact:links:department-news:alumni-news:anesthesiology-newsletter:calendar---events:coming-events:event-archive:life-after-residency"/>
+    <file name="museutils.js" crc="340535759" ref="index:residency:education:research:directory:about-us:news:calendar:contact-us:intranet:program-director-s-message:resident-applicant-information:clinical-program:didactic-program:rotation-goals-and-objectives:rotation-directors:meet-the-residents:mba-program:perioperative-management-fellowships:regional-pain-management-fellowship:research-fellowships:rotation-in-china:training-facilities:simulation-training---human-patient-simulator:careers-in-anesthesiology:medical-student-clerkship:current-research:sponsored-clinical-trials:completed-research:abstracts-presented:research-faculty:faculty:residents:staff:crnas:interns:alumni:faculty-alumni:mission-statement:history-of-the-department:message-to-alumni:contact:links:department-news:alumni-news:anesthesiology-newsletter:calendar---events:coming-events:event-archive:life-after-residency"/>
+    <file name="whatinput.js" crc="86476730" ref="index:residency:education:research:directory:about-us:news:calendar:contact-us:intranet:program-director-s-message:resident-applicant-information:clinical-program:didactic-program:rotation-goals-and-objectives:rotation-directors:meet-the-residents:mba-program:perioperative-management-fellowships:regional-pain-management-fellowship:research-fellowships:rotation-in-china:training-facilities:simulation-training---human-patient-simulator:careers-in-anesthesiology:medical-student-clerkship:current-research:sponsored-clinical-trials:completed-research:abstracts-presented:research-faculty:faculty:residents:staff:crnas:interns:alumni:faculty-alumni:mission-statement:history-of-the-department:message-to-alumni:contact:links:department-news:alumni-news:anesthesiology-newsletter:calendar---events:coming-events:event-archive:life-after-residency"/>
+    <file name="museconfig.js" crc="310584261" ref="index:residency:education:research:directory:about-us:news:calendar:contact-us:intranet:program-director-s-message:resident-applicant-information:clinical-program:didactic-program:rotation-goals-and-objectives:rotation-directors:meet-the-residents:mba-program:perioperative-management-fellowships:regional-pain-management-fellowship:research-fellowships:rotation-in-china:training-facilities:simulation-training---human-patient-simulator:careers-in-anesthesiology:medical-student-clerkship:current-research:sponsored-clinical-trials:completed-research:abstracts-presented:research-faculty:faculty:residents:staff:crnas:interns:alumni:faculty-alumni:mission-statement:history-of-the-department:message-to-alumni:contact:links:department-news:alumni-news:anesthesiology-newsletter:calendar---events:coming-events:event-archive:life-after-residency"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:residency:education:research:directory:about-us:news:calendar:contact-us:intranet:program-director-s-message:resident-applicant-information:clinical-program:didactic-program:rotation-goals-and-objectives:rotation-directors:meet-the-residents:mba-program:perioperative-management-fellowships:regional-pain-management-fellowship:research-fellowships:rotation-in-china:training-facilities:simulation-training---human-patient-simulator:careers-in-anesthesiology:medical-student-clerkship:current-research:sponsored-clinical-trials:completed-research:abstracts-presented:research-faculty:faculty:residents:staff:crnas:interns:alumni:faculty-alumni:mission-statement:history-of-the-department:message-to-alumni:contact:links:department-news:alumni-news:anesthesiology-newsletter:calendar---events:coming-events:event-archive:life-after-residency"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:residency:education:research:directory:about-us:news:calendar:contact-us:intranet:program-director-s-message:resident-applicant-information:clinical-program:didactic-program:rotation-goals-and-objectives:rotation-directors:meet-the-residents:mba-program:perioperative-management-fellowships:regional-pain-management-fellowship:research-fellowships:rotation-in-china:training-facilities:simulation-training---human-patient-simulator:careers-in-anesthesiology:medical-student-clerkship:current-research:sponsored-clinical-trials:completed-research:abstracts-presented:research-faculty:faculty:residents:staff:crnas:interns:alumni:faculty-alumni:mission-statement:history-of-the-department:message-to-alumni:contact:links:department-news:alumni-news:anesthesiology-newsletter:calendar---events:coming-events:event-archive:life-after-residency"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:residency:education:research:directory:about-us:news:calendar:contact-us:intranet:program-director-s-message:resident-applicant-information:clinical-program:didactic-program:rotation-goals-and-objectives:rotation-directors:meet-the-residents:mba-program:perioperative-management-fellowships:regional-pain-management-fellowship:research-fellowships:rotation-in-china:training-facilities:simulation-training---human-patient-simulator:careers-in-anesthesiology:medical-student-clerkship:current-research:sponsored-clinical-trials:completed-research:abstracts-presented:research-faculty:faculty:residents:staff:crnas:interns:alumni:faculty-alumni:mission-statement:history-of-the-department:message-to-alumni:contact:links:department-news:alumni-news:anesthesiology-newsletter:calendar---events:coming-events:event-archive:life-after-residency"/>
+    <file name="require.js" crc="7928878" ref="index:residency:education:research:directory:about-us:news:calendar:contact-us:intranet:program-director-s-message:resident-applicant-information:clinical-program:didactic-program:rotation-goals-and-objectives:rotation-directors:meet-the-residents:mba-program:perioperative-management-fellowships:regional-pain-management-fellowship:research-fellowships:rotation-in-china:training-facilities:simulation-training---human-patient-simulator:careers-in-anesthesiology:medical-student-clerkship:current-research:sponsored-clinical-trials:completed-research:abstracts-presented:research-faculty:faculty:residents:staff:crnas:interns:alumni:faculty-alumni:mission-statement:history-of-the-department:message-to-alumni:contact:links:department-news:alumni-news:anesthesiology-newsletter:calendar---events:coming-events:event-archive:life-after-residency"/>
+  </folder>
+  <folder name="images">
+    <file name="som_cmyk.jpg" crc="19265569" seo="true" ref="index:residency:education:research:directory:about-us:news:calendar:contact-us:intranet:program-director-s-message:resident-applicant-information:clinical-program:didactic-program:rotation-goals-and-objectives:rotation-directors:meet-the-residents:mba-program:perioperative-management-fellowships:regional-pain-management-fellowship:research-fellowships:rotation-in-china:training-facilities:simulation-training---human-patient-simulator:careers-in-anesthesiology:medical-student-clerkship:current-research:sponsored-clinical-trials:completed-research:abstracts-presented:research-faculty:faculty:residents:staff:crnas:interns:alumni:faculty-alumni:mission-statement:history-of-the-department:message-to-alumni:contact:links:department-news:alumni-news:anesthesiology-newsletter:calendar---events:coming-events:event-archive:life-after-residency">
+      <caption webpage="mission-statement" alt=""/>
+      <caption webpage="residents" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="directory" alt=""/>
+      <caption webpage="rotation-in-china" alt=""/>
+      <caption webpage="anesthesiology-newsletter" alt=""/>
+      <caption webpage="didactic-program" alt=""/>
+      <caption webpage="life-after-residency" alt=""/>
+      <caption webpage="faculty-alumni" alt=""/>
+      <caption webpage="clinical-program" alt=""/>
+      <caption webpage="interns" alt=""/>
+      <caption webpage="event-archive" alt=""/>
+      <caption webpage="alumni-news" alt=""/>
+      <caption webpage="perioperative-management-fellowships" alt=""/>
+      <caption webpage="regional-pain-management-fellowship" alt=""/>
+      <caption webpage="department-news" alt=""/>
+      <caption webpage="education" alt=""/>
+      <caption webpage="links" alt=""/>
+      <caption webpage="rotation-directors" alt=""/>
+      <caption webpage="current-research" alt=""/>
+      <caption webpage="rotation-goals-and-objectives" alt=""/>
+      <caption webpage="medical-student-clerkship" alt=""/>
+      <caption webpage="research-faculty" alt=""/>
+      <caption webpage="contact-us" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="calendar" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="calendar---events" alt=""/>
+      <caption webpage="training-facilities" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="completed-research" alt=""/>
+      <caption webpage="research" alt=""/>
+      <caption webpage="about-us" alt=""/>
+      <caption webpage="meet-the-residents" alt=""/>
+      <caption webpage="coming-events" alt=""/>
+      <caption webpage="mba-program" alt=""/>
+      <caption webpage="abstracts-presented" alt=""/>
+      <caption webpage="history-of-the-department" alt=""/>
+      <caption webpage="crnas" alt=""/>
+      <caption webpage="resident-applicant-information" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="residency" alt=""/>
+      <caption webpage="message-to-alumni" alt=""/>
+      <caption webpage="alumni" alt=""/>
+      <caption webpage="research-fellowships" alt=""/>
+      <caption webpage="intranet" alt=""/>
+      <caption webpage="sponsored-clinical-trials" alt=""/>
+      <caption webpage="careers-in-anesthesiology" alt=""/>
+      <caption webpage="simulation-training---human-patient-simulator" alt=""/>
+      <caption webpage="program-director-s-message" alt=""/>
+    </file>
+    <file name="u1424.png" crc="4248249932" ref="index:residency:education:research:directory:about-us:news:calendar:contact-us:intranet:program-director-s-message:resident-applicant-information:clinical-program:didactic-program:rotation-goals-and-objectives:rotation-directors:meet-the-residents:mba-program:perioperative-management-fellowships:regional-pain-management-fellowship:research-fellowships:rotation-in-china:training-facilities:simulation-training---human-patient-simulator:careers-in-anesthesiology:medical-student-clerkship:current-research:sponsored-clinical-trials:completed-research:abstracts-presented:research-faculty:faculty:residents:staff:crnas:interns:alumni:faculty-alumni:mission-statement:history-of-the-department:message-to-alumni:contact:links:department-news:alumni-news:anesthesiology-newsletter:calendar---events:coming-events:event-archive:life-after-residency"/>
+    <file name="cactus-crop-u1330.jpg" crc="4159479795" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="road-crop-u1332.jpg" crc="67677347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trees-crop-u1328.jpg" crc="440630782" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u1367.png" crc="3778219719" ref="index"/>
+    <file name="u1368.png" crc="3778219719" ref="index"/>
+    <file name="emergence-crop-u1385.jpg" crc="4030223382" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2014cbyresidents(1)-crop-u1391.jpg" crc="3872692424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="trey(1)(1)-crop-u1397.jpg" crc="4294210928" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eric(1)-crop-u1403.jpg" crc="4160686714" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jonathan(2).jpg" crc="3849315666" seo="true" ref="residency:program-director-s-message:faculty">
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="residency" alt=""/>
+      <caption webpage="program-director-s-message" alt=""/>
+    </file>
+    <file name="residentbanner_2-mg9073.jpg" crc="3785950287" seo="true" ref="residency">
+      <caption webpage="residency" alt=""/>
+    </file>
+    <file name="didactic_banner_618.jpg" crc="46720123" seo="true" ref="residency">
+      <caption webpage="residency" alt=""/>
+    </file>
+    <file name="small-banner_news.jpg" crc="3778181663" seo="true" ref="residency">
+      <caption webpage="residency" alt=""/>
+    </file>
+    <file name="rotationsbanner_mg9264.jpg" crc="3925430574" seo="true" ref="residency">
+      <caption webpage="residency" alt=""/>
+    </file>
+    <file name="meet-residents-bannermg9387.jpg" crc="337350616" seo="true" ref="residency">
+      <caption webpage="residency" alt=""/>
+    </file>
+    <file name="small-banner_residency.jpg" crc="3801991074" seo="true" ref="residency">
+      <caption webpage="residency" alt=""/>
+    </file>
+    <file name="mba_freemanbldg_175.jpg" crc="3949255786" seo="true" ref="education:mba-program">
+      <caption webpage="education" alt=""/>
+      <caption webpage="mba-program" alt=""/>
+    </file>
+    <file name="gcr_2457_3(1).jpg" crc="458821076" seo="true" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="china_group1_596-crop-u1686.jpg" crc="3904061654" seo="true" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="8(2)-crop-u1694.jpg" crc="488519977" seo="true" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="tumc_3-crop-u1699.jpg" crc="3834387667" seo="true" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="20150401_135459(1)-crop-u1706.jpg" crc="4119390729" seo="true" ref="education">
+      <caption webpage="education" alt=""/>
+    </file>
+    <file name="clerkship_5687439784_c34f04c5cf_o_300.jpg" crc="351838077" seo="true" ref="education:medical-student-clerkship">
+      <caption webpage="education" alt=""/>
+      <caption webpage="medical-student-clerkship" alt=""/>
+    </file>
+    <file name="jonathanweed.jpg" crc="4187665649" seo="true" ref="program-director-s-message">
+      <caption webpage="program-director-s-message" alt=""/>
+    </file>
+    <file name="res-applicant-info-mg9260_200.jpg" crc="302130960" seo="true" ref="resident-applicant-information">
+      <caption webpage="resident-applicant-information" alt=""/>
+    </file>
+    <file name="20150401_135418(1).jpg" crc="151220584" seo="true" ref="clinical-program">
+      <caption webpage="clinical-program" alt=""/>
+    </file>
+    <file name="20150618_143137_resized.jpg" crc="237442707" seo="true" ref="didactic-program">
+      <caption webpage="didactic-program" alt=""/>
+    </file>
+    <file name="goals_200.jpg" crc="116893465" seo="true" ref="rotation-goals-and-objectives">
+      <caption webpage="rotation-goals-and-objectives" alt=""/>
+    </file>
+    <file name="mission_tuhc5_596(1).jpg" crc="3762053705" seo="true" ref="rotation-goals-and-objectives">
+      <caption webpage="rotation-goals-and-objectives" alt=""/>
+    </file>
+    <file name="hirschweb(1).jpg" crc="355114415" seo="true" ref="mba-program">
+      <caption webpage="mba-program" alt="David Hirsch, MD"/>
+    </file>
+    <file name="hieu hoang.jpg" crc="3961213690" seo="true" ref="regional-pain-management-fellowship">
+      <caption webpage="regional-pain-management-fellowship" alt=""/>
+    </file>
+    <file name="award 2.jpg" crc="426017416" seo="true" ref="research-fellowships">
+      <caption webpage="research-fellowships" alt=""/>
+    </file>
+    <file name="china_group1_596.jpg" crc="3824216094" seo="true" ref="rotation-in-china">
+      <caption webpage="rotation-in-china" alt=""/>
+    </file>
+    <file name="china_hospital_300.jpg" crc="3869337314" seo="true" ref="rotation-in-china">
+      <caption webpage="rotation-in-china" alt=""/>
+    </file>
+    <file name="china_group2_596.jpg" crc="339098822" seo="true" ref="rotation-in-china">
+      <caption webpage="rotation-in-china" alt=""/>
+    </file>
+    <file name="hospital_tulane_140x89.jpg" crc="331997835" seo="true" ref="training-facilities">
+      <caption webpage="training-facilities" alt=""/>
+    </file>
+    <file name="hospital_lakeside_140x89.jpg" crc="3915398786" seo="true" ref="training-facilities">
+      <caption webpage="training-facilities" alt=""/>
+    </file>
+    <file name="charity-uh_140x89.jpg" crc="4282902752" seo="true" ref="training-facilities">
+      <caption webpage="training-facilities" alt=""/>
+    </file>
+    <file name="childrens-hospital_140x89.jpg" crc="134554696" seo="true" ref="training-facilities">
+      <caption webpage="training-facilities" alt=""/>
+    </file>
+    <file name="hps-top_596.jpg" crc="4105798475" seo="true" ref="simulation-training---human-patient-simulator">
+      <caption webpage="simulation-training---human-patient-simulator" alt=""/>
+    </file>
+    <file name="8(2).jpg" crc="360082218" seo="true" ref="simulation-training---human-patient-simulator">
+      <caption webpage="simulation-training---human-patient-simulator" alt=""/>
+    </file>
+    <file name="6.jpg" crc="52437105" seo="true" ref="simulation-training---human-patient-simulator">
+      <caption webpage="simulation-training---human-patient-simulator" alt=""/>
+    </file>
+    <file name="20150401_135459(1).jpg" crc="356684463" seo="true" ref="careers-in-anesthesiology">
+      <caption webpage="careers-in-anesthesiology" alt=""/>
+    </file>
+    <file name="sabrinabent.jpg" crc="421618114" seo="true" ref="faculty">
+      <caption webpage="faculty" alt=""/>
+    </file>
+    <file name="ta_blank-head.jpg" crc="353566314" seo="true" ref="faculty:staff:crnas">
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="faculty" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="staff" alt=""/>
+      <caption webpage="crnas" alt=""/>
+    </file>
+    <file name="christian_seth md.jpg" crc="286788530" seo="true" ref="faculty">
+      <caption webpage="faculty" alt=""/>
+    </file>
+    <file name="pfoldes.jpg" crc="422223674" seo="true" ref="faculty">
+      <caption webpage="faculty" alt=""/>
+    </file>
+    <file name="dantegallianomd_1(1).jpg" crc="3765313070" seo="true" ref="faculty">
+      <caption webpage="faculty" alt=""/>
+    </file>
+    <file name="ericglenn_4.jpg" crc="3781064743" seo="true" ref="faculty">
+      <caption webpage="faculty" alt=""/>
+    </file>
+    <file name="timku.jpg" crc="270593819" seo="true" ref="faculty">
+      <caption webpage="faculty" alt=""/>
+    </file>
+    <file name="patrick mccarty md_1.jpg" crc="26299019" seo="true" ref="faculty">
+      <caption webpage="faculty" alt=""/>
+    </file>
+    <file name="mg0093-s.jpg" crc="86573299" seo="true" ref="faculty">
+      <caption webpage="faculty" alt=""/>
+    </file>
+    <file name="anne(1).jpg" crc="4229870817" seo="true" ref="faculty">
+      <caption webpage="faculty" alt=""/>
+    </file>
+    <file name="pierre(4).jpg" crc="329676318" seo="true" ref="faculty">
+      <caption webpage="faculty" alt=""/>
+    </file>
+    <file name="lihua3(2).jpg" crc="3776868888" seo="true" ref="faculty">
+      <caption webpage="faculty" alt=""/>
+    </file>
+    <file name="beakley crop-thumbnail.jpg" crc="98951018" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="jadeepdhaliwal.jpg" crc="4212160530" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="roberts crop-thumbnail.jpg" crc="480879131" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="paetzoldcrop-thumbnail(1).jpg" crc="3766714735" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="klaybor-web2.jpg" crc="4128586818" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="calixto-web2.jpg" crc="4049064929" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="eskander.jpg" crc="4024313856" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="skoniecznycrop-thumbnail(2).jpg" crc="34771337" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="matthewporcelli.jpg" crc="3917876068" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="mody.jpg" crc="508750773" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="rebeccatisdale.jpg" crc="3829426027" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="webb crop-thumbnail.jpg" crc="4253266708" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="elizabethwingo.jpg" crc="3787410977" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="zhangs.jpg" crc="216007428" seo="true" ref="residents">
+      <caption webpage="residents" alt=""/>
+    </file>
+    <file name="patty burke_3 web smalljpg.jpg" crc="4254026990" seo="true" ref="staff">
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="dana(1).jpg" crc="4140161446" seo="true" ref="staff">
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="elise3.jpg" crc="505666564" seo="true" ref="staff">
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="marciahenry10b(3).jpg" crc="133513231" seo="true" ref="staff">
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="mikearbon.jpg" crc="4220063121" seo="true" ref="staff">
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="calvinbrown(2).jpg" crc="4245567954" seo="true" ref="staff">
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="alclark2(1).jpg" crc="3941861050" seo="true" ref="staff">
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="nikolkremer (2).jpg" crc="419674077" seo="true" ref="staff">
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="leswoodcox(1).jpg" crc="289515471" seo="true" ref="staff">
+      <caption webpage="staff" alt=""/>
+    </file>
+    <file name="mission_som5_596-2.jpg" crc="96416539" seo="true" ref="mission-statement">
+      <caption webpage="mission-statement" alt=""/>
+    </file>
+    <file name="mission_som6_200.jpg" crc="4131932724" seo="true" ref="mission-statement">
+      <caption webpage="mission-statement" alt=""/>
+    </file>
+    <file name="mission_tuhc5_596.jpg" crc="3762053705" seo="true" ref="mission-statement">
+      <caption webpage="mission-statement" alt=""/>
+    </file>
+    <file name="thc-longphoto-dh596.jpg" crc="4060303518" seo="true" ref="history-of-the-department">
+      <caption webpage="history-of-the-department" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="264665818" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="residency.html" crc="48017898" seo="true" mt="1538878195221" redirect="true"/>
+  <file name="education.html" crc="3837655852" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="research.html" crc="3815052555" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="directory.html" crc="517459041" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="about-us.html" crc="434420762" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="news.html" crc="4071381645" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="calendar.html" crc="4191233158" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="contact-us.html" crc="4059163253" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="intranet.html" crc="357150823" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="program-director-s-message.html" crc="28582201" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="resident-applicant-information.html" crc="108957068" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="clinical-program.html" crc="148741387" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="didactic-program.html" crc="4010663224" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="rotation-goals-and-objectives.html" crc="389763575" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="rotation-directors.html" crc="4008300920" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="meet-the-residents.html" crc="3906829348" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="mba-program.html" crc="228884545" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="perioperative-management-fellowships.html" crc="3973652796" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="regional-pain-management-fellowship.html" crc="283694188" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="research-fellowships.html" crc="207080824" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="rotation-in-china.html" crc="256553522" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="training-facilities.html" crc="431254479" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="simulation-training---human-patient-simulator.html" crc="253270475" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="careers-in-anesthesiology.html" crc="387961840" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="medical-student-clerkship.html" crc="204376092" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="current-research.html" crc="4239365866" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="sponsored-clinical-trials.html" crc="4220303701" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="completed-research.html" crc="4246759850" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="abstracts-presented.html" crc="69201586" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="research-faculty.html" crc="414299753" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="faculty.html" crc="306754921" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="residents.html" crc="4161259849" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="staff.html" crc="3983870640" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="crnas.html" crc="4100068903" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="interns.html" crc="4160779872" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="alumni.html" crc="3879944186" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="faculty-alumni.html" crc="147164533" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="mission-statement.html" crc="3921376255" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="history-of-the-department.html" crc="3797233202" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="message-to-alumni.html" crc="499185317" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="contact.html" crc="3921661258" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="links.html" crc="459821946" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="department-news.html" crc="3922450743" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="alumni-news.html" crc="189624291" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="anesthesiology-newsletter.html" crc="4234187852" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="calendar---events.html" crc="334981873" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="coming-events.html" crc="3995957914" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="event-archive.html" crc="427675115" seo="true" mt="1456436342943" redirect="true"/>
+  <file name="life-after-residency.html" crc="399265748" seo="true" mt="1456436342943" redirect="true"/>
+</manifest>

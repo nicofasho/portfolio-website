@@ -167,6 +167,10 @@ button,
     font-size: 22px;
 }
 
+.center{
+    text-align: center;
+}
+
 .project-link {
     display: block;
     width: 100%;
